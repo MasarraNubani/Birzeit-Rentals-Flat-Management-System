@@ -104,6 +104,6 @@ Visit: http://localhost/birzeit-rentals/pages/home.php.
 
 👤 Author
 
-Developed by Masarra S. H. Al-Nubani
+Developed by Masarra'S Nubani
 📍 Palestine
-🔗 LinkedIn www.linkedin.com/in/masarra-nubani-485b20248
+🔗 LinkedIn: www.linkedin.com/in/masarra-nubani-485b20248
