@@ -35,18 +35,26 @@ Designed with role-based access for **Managers, Owners, and Customers**, it prov
 ## 📂 Project Structure
 
 /birzeit-rentals
+
 │── /auth # Login, Register (Customer & Owner)
+
 │── /includes # Header, Footer, CSRF, Notifications
+
 │── /manager # Manager dashboards & tools
+
 │── /owner # Owner dashboards (Add Flat, Preview Appointments)
+
 │── /pages # Public/Customer pages (Home, Flats, Search, Detail)
+
 │── /uploads # Flat images (ignored in .gitignore)
+
 │── dbconfig.inc.php (example only)
+
 │── style.css
+
 │── README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -81,7 +89,6 @@ Visit: http://localhost/birzeit-rentals/pages/home.php.
 <img width="1897" height="885" alt="image" src="https://github.com/user-attachments/assets/4a9e2b15-c709-4924-b873-82a92fcd2549" />
 <img width="1899" height="883" alt="image" src="https://github.com/user-attachments/assets/1fb77256-ef32-4cbc-9376-09b4b0741ccc" />
 <img width="1899" height="872" alt="image" src="https://github.com/user-attachments/assets/7c12f499-7e78-4b25-a0dc-e8c6f4697489" />
-![Uploading image.png…]()
 
 🗺️ Roadmap
 
